@@ -227,12 +227,7 @@ See `contributing.md` for ways to get started.
 Distributed under the no License. 
 
 
-<!-- Contact -->
-## :handshake: Contact
 
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
-
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal](https://github.com/chintan-golakiya/online-exam-portal)
 
 
 <!-- Acknowledgments -->
