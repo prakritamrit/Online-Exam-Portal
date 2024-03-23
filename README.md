@@ -9,7 +9,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Online Exam Portal</h1>
   <p>
      Created an Online Exam Portal using Node.js and React.js for secure and efficient online exams. Included features
-like user authentication, exam scheduling, and result management. Employed RESTful APIs for seamless frontendbackend communication, ensuring a smooth user experience.
+like user authentication, exam scheduling, and result management. Employed RESTful APIs for seamless frontend-backend communication, ensuring a smooth user experience.
 
   </p>
   
