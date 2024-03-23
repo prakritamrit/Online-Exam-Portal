@@ -200,41 +200,9 @@ Use following paths
   User  Frontend : localhost:3200/
 ```
 
-<!-- To Do -->
-## :notes: to-do
-  <ul>
-  <li> add more features </li>
-  </ul>
- 
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. 
 
 
 
 
 
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-Following libraries have been used in this projects.
-
- - [Material UI](https://www.mui.com)
- - [Passport JS](https://www.passportjs.org/)
- - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
 
